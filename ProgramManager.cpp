@@ -1,3 +1,12 @@
+/*
+[Japanese]
+このプログラムは7z.exeがカレントディレクトリ または 環境変数PATHに登録されたディレクトリに存在することを前提に作られています
+もし使いたければご自由にお使いください
+
+[English(GoogleTranslate)]
+This program is created on the assumption that 7z.exe exists in the current directory or a directory registered in the environment variable PATH.
+If you want to use it, feel free to use it.
+*/
 #include <iostream>
 #include <string>
 #include <cstdlib>
